@@ -1,4 +1,4 @@
 # snake
 html5 canvas game 
 
-Demo : bibhuticoder.github.io/snake
+Demo : http://bibhuticoder.github.io/snake
